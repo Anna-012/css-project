@@ -1,0 +1,45 @@
+
+.container{
+    height: 460px;
+    width: 250px;
+    border: transparent;
+    margin: auto;
+    margin-top: 150px;
+ 
+}
+
+/* .heading{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.imag img{
+    margin: 0;
+    height: 150px;
+    width: 245px;
+    object-fit: cover;
+    border: transparent
+    /* padding: 0px; */
+}
+
+.name{
+    text-align: center;
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+.bio{
+    text-align: center;
+}
+
+.icons{
+    
+    
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
